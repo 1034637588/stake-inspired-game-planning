@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stake 游戏策划"
+  short_description: "研究单局无状态核心玩法，设计场景创新、反馈节奏并交付完整策划与素材清单"
+  default_prompt: "使用 $stake-inspired-game-planning，为我的主题设计一款单局无状态游戏，输出完整策划方案、事件反馈表和素材清单，并标明待验证假设。"
